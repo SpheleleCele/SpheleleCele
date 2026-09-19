@@ -15,7 +15,7 @@ I am an **MSc Biotechnology Candidate** specializing in bacterial genomics, comp
 ## 🧰 Tech Stack & Tools
 * **Languages:** Python, Bash, SQL
 * **Workflow Frameworks:** Nextflow, Conda
-* **Genomic Software:** Flye, Prokka, Circlator, GATK, FastTree, NanoPlot, InterPro, CARD, Blast, FastQC, UniCycler
+* **Genomic Software/Tools:** Flye, Prokka, Circlator, GATK, FastTree, NanoPlot, InterPro, CARD, Blast, FastQC, UniCycler, MAFFT, PlasFlow, Gubbins, CodeML, PlasmidFinder, geNomad, Quast, CheckM2, FastTree and Mega.
 
 ---
 
