@@ -5,7 +5,7 @@ I am an **MSc Biotechnology Candidate** specializing in bacterial genomics, comp
 ---
 
 ## 🛠️ What I'm Building
-* **Comparative Evolutionary Analysis Pipeline:** let's update about as well: An advanced, automated Nextflow pipeline designed for high-throughput comparative analysis, pangenome dynamics, and selection pressure evaluation in bacterial populations (specifically optimized for Bacillus species clusters).
+* **Comparative Evolutionary Analysis Pipeline:** An advanced, automated Nextflow pipeline designed for high-throughput comparative analysis, pangenome dynamics, and selection pressure evaluation in bacterial populations (specifically optimized for Bacillus species clusters).
 
 ## 📚 What I'm Learning & Practicing
 * **Bioinformatics & Pipeline Engineering:** Building reproducible data structures and automated pipelines using Nextflow, Snakemake, and High-Performance Computing (HPC) environments.
